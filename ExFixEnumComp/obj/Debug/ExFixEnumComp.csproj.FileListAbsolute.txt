@@ -1,0 +1,9 @@
+D:\DEV\CERTIFICADOS\.NET FUNDAMENTALS\PROJETOS EM C#\PROJETOS UDEMY\exercicios fixacao enum e composicao\ExFixEnumComp\ExFixEnumComp\obj\Debug\ExFixEnumComp.csproj.AssemblyReference.cache
+D:\DEV\CERTIFICADOS\.NET FUNDAMENTALS\PROJETOS EM C#\PROJETOS UDEMY\exercicios fixacao enum e composicao\ExFixEnumComp\ExFixEnumComp\obj\Debug\ExFixEnumComp.csproj.CoreCompileInputs.cache
+D:\DEV\CERTIFICADOS\UDEMY\PROJETOS UDEMY\exercicios fixacao enum e composicao\ExFixEnumComp\ExFixEnumComp\bin\Debug\ExFixEnumComp.exe.config
+D:\DEV\CERTIFICADOS\UDEMY\PROJETOS UDEMY\exercicios fixacao enum e composicao\ExFixEnumComp\ExFixEnumComp\bin\Debug\ExFixEnumComp.exe
+D:\DEV\CERTIFICADOS\UDEMY\PROJETOS UDEMY\exercicios fixacao enum e composicao\ExFixEnumComp\ExFixEnumComp\bin\Debug\ExFixEnumComp.pdb
+D:\DEV\CERTIFICADOS\UDEMY\PROJETOS UDEMY\exercicios fixacao enum e composicao\ExFixEnumComp\ExFixEnumComp\obj\Debug\ExFixEnumComp.csproj.AssemblyReference.cache
+D:\DEV\CERTIFICADOS\UDEMY\PROJETOS UDEMY\exercicios fixacao enum e composicao\ExFixEnumComp\ExFixEnumComp\obj\Debug\ExFixEnumComp.csproj.CoreCompileInputs.cache
+D:\DEV\CERTIFICADOS\UDEMY\PROJETOS UDEMY\exercicios fixacao enum e composicao\ExFixEnumComp\ExFixEnumComp\obj\Debug\ExFixEnumComp.exe
+D:\DEV\CERTIFICADOS\UDEMY\PROJETOS UDEMY\exercicios fixacao enum e composicao\ExFixEnumComp\ExFixEnumComp\obj\Debug\ExFixEnumComp.pdb
